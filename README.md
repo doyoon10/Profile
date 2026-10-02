@@ -61,12 +61,12 @@ flowchart LR
 
 | 홈 | 기록 | AI 분석 결과 |
 |:---:|:---:|:---:|
-| <img src="docs/images/home.png" width="240" /> | <img src="docs/images/record.png" width="240" /> | <img src="docs/images/ai-result.png" width="240" /> |
+| <img src="docs/images/flows/home.png" width="240" /> | <img src="docs/images/flows/record.png" width="240" /> | <img src="docs/images/flows/ai-result.png" width="240" /> |
 | **매일 자라는 내 나무** | **말하듯 한 줄 기록** | **AI가 EXP로 변환** |
 
 | 성장 리포트 | 퀘스트 | 프로필 |
 |:---:|:---:|:---:|
-| <img src="docs/images/growth.png" width="240" /> | <img src="docs/images/quest.png" width="240" /> | <img src="docs/images/profile.png" width="240" /> |
+| <img src="docs/images/flows/growth.png" width="240" /> | <img src="docs/images/flows/quest.png" width="240" /> | <img src="docs/images/flows/profile.png" width="240" /> |
 | **월별 EXP 추이 · 스탯별 성장** | **일일 · 주간 퀘스트** | **연속 기록 · 업적 · 스탯** |
 
 </div>
@@ -111,7 +111,7 @@ flowchart LR
 
 | 1. 로그인 | 2–3. 프로필 · 관심 분야 | 4. 첫 씨앗 | 5. 스탯 설정 |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/images/login.png" width="180" /> | 닉네임 · 사진 →<br/>지식 · 운동 · 예술 · 라이프 | <img src="docs/images/onboarding-seed.png" width="180" /> | <img src="docs/images/onboarding-stat.png" width="180" /> |
+| <img src="docs/images/flows/login.png" width="180" /> | 닉네임 · 사진 →<br/>지식 · 운동 · 예술 · 라이프 | <img src="docs/images/flows/onboarding-seed.png" width="180" /> | <img src="docs/images/flows/onboarding-stat.png" width="180" /> |
 | Google · Apple 소셜 로그인 | 여러 개 선택 가능 | 고른 분야 EXP ×1.3 | 카테고리당 3개까지 |
 
 </div>
@@ -128,10 +128,13 @@ flowchart LR
 - [ ] 앱 구현
 - [ ] 상점 · 꾸미기 · 프로필 공유
 
-<!--
 ## 🛠️ Tech Stack
-TODO: 스택 확정 후 추가
--->
+
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
 
 <br/>
 
