@@ -44,25 +44,6 @@
 | **② 핵심 루프** | 한 줄 기록 → 🤖 AI 분석 → 결과 확인 · 수정 → ⚡ EXP 반영 → 레벨업 시 🌳 나무 성장 |
 | **③ 보상 루프** | 퀘스트 완료 → 🎁 EXP + 🌱 새싹코인 → 상점에서 새 씨앗 · 꾸미기 |
 
-
-<br/>
-
-## 📱 Screens
-
-<div align="center">
-
-| 홈 | 기록 | AI 분석 결과 |
-|:---:|:---:|:---:|
-| <img src="docs/images/flows/home.png" width="240" /> | <img src="docs/images/flows/record.png" width="240" /> | <img src="docs/images/flows/ai-result.png" width="240" /> |
-| **매일 자라는 내 나무** | **말하듯 한 줄 기록** | **AI가 EXP로 변환** |
-
-| 성장 리포트 | 퀘스트 | 프로필 |
-|:---:|:---:|:---:|
-| <img src="docs/images/flows/growth.png" width="240" /> | <img src="docs/images/flows/quest.png" width="240" /> | <img src="docs/images/flows/profile.png" width="240" /> |
-| **월별 EXP 추이 · 스탯별 성장** | **일일 · 주간 퀘스트** | **연속 기록 · 업적 · 스탯** |
-
-</div>
-
 <br/>
 
 ## 🧩 Core Features
@@ -94,19 +75,6 @@
 
 ### ⚖️ 지속 가능한 성장 설계
 하루 **1,000 EXP**를 넘으면 그 뒤로는 절반만 쌓입니다. 하루에 몰아서 하기보다 **매일 조금씩** 하는 게 이득이 되도록 설계했어요. 연속 기록일은 홈에서 바로 보입니다.
-
-<br/>
-
-## 🚀 Onboarding
-
-<div align="center">
-
-| 1. 로그인 | 2–3. 프로필 · 관심 분야 | 4. 첫 씨앗 | 5. 스탯 설정 |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/images/flows/login.png" width="180" /> | 닉네임 · 사진 →<br/>지식 · 운동 · 예술 · 라이프 | <img src="docs/images/flows/onboarding-seed.png" width="180" /> | <img src="docs/images/flows/onboarding-stat.png" width="180" /> |
-| Google · Apple 소셜 로그인 | 여러 개 선택 가능 | 고른 분야 EXP ×1.3 | 카테고리당 3개까지 |
-
-</div>
 
 <br/>
 
