@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="docs/images/tree-stages.png" alt="지혜나무 성장 단계" width="100%" />
-
 # 🌱 Profile
 
 ### 말하면 자라는 성장 캐릭터
